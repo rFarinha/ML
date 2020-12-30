@@ -1,4 +1,4 @@
-# ML
+# UdacityML
 Repository for the Projects in Intro to Machine Learning with Pytorch Nanodegree Program
 
 ## Project 1 - Finding Donors for CharityML
